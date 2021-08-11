@@ -1,0 +1,11 @@
+div{
+    align-items: center;
+    background-color: navy;
+    color: orangered;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 50px;
+}
+body{
+    background: linear-gradient( navy,blue,darkblue,black);
+}
